@@ -1,0 +1,13 @@
+# Fichiers Java compilés
+*.class
+out/
+bin/
+
+# Fichiers générés par les IDE
+.vscode/
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
