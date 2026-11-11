@@ -1,5 +1,7 @@
 ## Proyecto PD2 - Sistema Administrativo de Venta y Reserva de Stands (FILEY)
 
+Link del video : https://youtu.be/jpLvyveIMSQ
+
 ### 1. Descripción General
 
 Sistema backend desarrollado en Java bajo el paradigma de Programación Orientada a Objetos (POO) para administrar la venta, reserva, bloqueo administrativo, procesamiento de pagos y notificaciones de vencimiento de los stands de la Feria Internacional de la Lectura Yucatán (FILEY).
