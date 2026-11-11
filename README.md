@@ -1,6 +1,7 @@
 ## Proyecto PD2 - Sistema Administrativo de Venta y Reserva de Stands (FILEY)
 
 Link del video : https://youtu.be/jpLvyveIMSQ
+Nuevo link del video, ya que ayer no funcionó la importación del video : https://youtu.be/SNr5DTmtWWg
 
 ### 1. Descripción General
 
